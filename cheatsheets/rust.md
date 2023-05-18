@@ -24,3 +24,9 @@
    - `let a = [1, 2]` - quick definition
    - `let a = [1; 2]` - length 2, filled with 1s
 
+### Loops:
+ - `loop` - infinite loop
+ - `'Name` - define loop name referable with break and continue! (wow!)
+ - `while` - loop with condition
+ - `for` element `in` array
+ - `1..4` - range from 1 to 3 incl. `.rev`  can be used to reverse 
